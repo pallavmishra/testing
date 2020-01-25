@@ -1,6 +1,2 @@
 print('This is a test file created in RStudio for Git')
-rint("This is a test file created in RStudio for Git")
-print("This is a test file created in RStudio for Git")
-print("This is a test file created in RStudio for Git")
-source('C:/Users/palla/Desktop/testing/newfile.R')
-savehistory("C:/Users/palla/Desktop/testing/newfile.R")
+
